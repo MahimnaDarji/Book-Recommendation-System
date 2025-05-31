@@ -28,7 +28,7 @@ The engine considers the user’s interaction with specific genres and books to 
 The genre page is a key feature, displaying books across multiple categories, making it easy for users to explore different genres.
 Users can select their preferred genres to receive book lists and recommendations specific to that category, helping them discover new books that match their preferences.
 
-Recommendation Page:
+### Recommendation Page:
 
 The recommendation page is dynamically generated based on the user’s interaction with the genre page and other relevant data points.
 Personalized book suggestions are displayed, focusing on enhancing the user’s reading experience by providing them with books they are likely to enjoy based on their chosen genres and past interactions.
