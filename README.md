@@ -1,4 +1,4 @@
-# Book_Recommendation_System
+# Book Recommendation System
 This project is a full-stack book recommendation system made to give readers personalized book suggestions using content-based filtering. Along with accurate recommendations, it also has a clean and easy-to-use website that makes the overall experience more enjoyable for users.
 
 ## Key Features:
